@@ -1,0 +1,15 @@
+project:
+  name: "TODO_PROJECT_NAME"
+  description: "TODO_ONE_SENTENCE_QUESTION"
+  owner: "TODO_PROJECT_OWNER"
+  status: "NOT_STARTED"
+  repository_visibility_recommendation: "private_for_unpublished_research"
+  documentation_language: "English"
+research:
+  organism: "TODO"
+  assays: []
+  cohorts: []
+  primary_comparisons: []
+data:
+  authorization_status: "UNVERIFIED"
+  public_data_release_approved: false
